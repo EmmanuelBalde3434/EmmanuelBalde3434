@@ -10,6 +10,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmmanuelBalde3434&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
 <br/>
 
 ---
@@ -34,7 +38,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Herramientas
+###  Tech Stack & Herramientas
 
 <div align="center">
   
@@ -57,23 +61,23 @@
 
 ---
 
-###  Mis Estadísticas en Código
+###  Mis Proyectos Desplegados
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBalde3434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBalde3434&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBalde3434&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
-</div>
+| Proyecto | Descripción | Demo en Vivo |
+| :--- | :--- | :--- |
+| **Reserva Now** | Landing page para sistema de reservaciones. | [Ver Proyecto](https://www.reserva-now.com) |
 
 <br/>
 
 ---
+
+###  Actividad y Racha
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=EmmanuelBalde3434&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
   
